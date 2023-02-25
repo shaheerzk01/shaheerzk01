@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shaheerzk01
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on small java or python based projects
+- 💞️ I’m looking to collaborate on small java or python or flutter based projects
 - 📫 email me on shaheerzamank@gmail.com or contact me on 03317514483
 
 <!---
