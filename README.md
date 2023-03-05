@@ -1,7 +1,7 @@
-Hi there my name is Shaheer zaman and i am a software engineering student at Usman Institute of Technology.I am proficient in various programming languages including Python, Java, JavaScript, Dart, SQL, Flutter, MongoDB, html,css and have a great experience in using flatforms such as firebase, rapidapi and many more. I have been working on quite a few projects and trying to acheive the great heights in this feild and looking forward to collaborate with others to build wonderfull projects 
-connect me on:
-email: shaheerzamank@gmail.com
-contact no: 03317514483
+Hi there my name is Shaheer zaman and i am a software engineering student at Usman Institute of Technology.I am proficient in various programming languages including Python, Java, JavaScript, Dart, SQL, Flutter, MongoDB, html,css and have a great experience in using flatforms such as firebase, rapidapi and many more. I have been working on quite a few projects and trying to acheive the great heights in this feild and looking forward to collaborate with others to build wonderfull projects <br />
+connect me on: <br />
+email: shaheerzamank@gmail.com <br />
+contact no: 03317514483 <br />
 LinkedIn: Shaheer zaman
 
 <!---
