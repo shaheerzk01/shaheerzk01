@@ -11,4 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 TECHNICAL SKILLS
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,flutter,dart,python,java,mongodb,mysql,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,flutter,dart,python,java,mongodb,mysql,firebase,vim)](https://skillicons.dev)
+
+FAMILIAR IDE's
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,docker,azure,figma,discord,vscode,visualstudion)](https://skillicons.dev)
