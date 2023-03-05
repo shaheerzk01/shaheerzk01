@@ -9,4 +9,6 @@ shaheerzk01/shaheerzk01 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+TECHNICAL SKILLS
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,flutter)](https://skillicons.dev)
