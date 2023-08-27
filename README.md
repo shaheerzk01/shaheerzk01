@@ -16,4 +16,4 @@ TECHNICAL SKILLS
 
 FAMILIAR IDE's
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,docker,azure,figma,discord,vscode,visualstudion,Xcode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,docker,azure,figma,discord,vscode,visualstudion,xcode)](https://skillicons.dev)
