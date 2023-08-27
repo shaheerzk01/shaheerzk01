@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 TECHNICAL SKILLS
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,flutter,dart,python,java,mongodb,mysql,firebase,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,flutter,dart,python,java,mongodb,mysql,firebase,vim,swift)](https://skillicons.dev)
 
 FAMILIAR IDE's
 
