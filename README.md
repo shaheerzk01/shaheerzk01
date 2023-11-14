@@ -17,5 +17,4 @@ TECHNICAL SKILLS
 FAMILIAR IDE's
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,docker,azure,figma,discord,vscode,visualstudio,stackoverflow)](https://skillicons.dev)
-
-[vision-friendly-dark]: https://github-readme-stats.vercel.app/api?username=shaheerzk01&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vision-friendly-dark
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
