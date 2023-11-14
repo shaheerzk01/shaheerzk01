@@ -18,4 +18,4 @@ FAMILIAR IDE's
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,docker,azure,figma,discord,vscode,visualstudio,stackoverflow)](https://skillicons.dev)
 
-[!GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
+[!GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaheerzk01&theme=radical)
