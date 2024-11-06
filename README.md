@@ -1,4 +1,4 @@
-Hi there my name is Shaheer zaman and i am a software engineering student at Usman Institute of Technology.I am proficient in various programming languages including Python, Java, JavaScript, Dart, SQL, Flutter, MongoDB, html,css,swift and have a great experience in using flatforms such as firebase, rapidapi and many more. I have been working on quite a few projects and trying to acheive the great heights in this feild and looking forward to collaborate with others to build wonderfull projects <br />
+Hi there my name is Shaheer zaman and i am a software engineering student at Usman Institute of Technology.I am proficient in various programming languages including Python, Java, JavaScript, Dart, SQL, Flutter, MongoDB, html,css,swift,React,NextJS and have a great experience in using platforms such as firebase, rapidapi and many more. I have been working on quite a few projects and trying to acheive the great heights in this feild and looking forward to collaborate with others to build wonderfull projects <br />
 connect me on: <br />
 portfolio website: https://shaheer-zaman-6e188.web.app/ <br />
 email: shaheerzamank@gmail.com <br />
@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 TECHNICAL SKILLS
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,flutter,dart,python,java,mongodb,mysql,firebase,vim,swift,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,flutter,dart,python,java,mongodb,mysql,firebase,vim,swift,linux,flask,git,github,js,nextjs,opencv,react,tailwind)](https://skillicons.dev)
 
 FAMILIAR IDE's
 
